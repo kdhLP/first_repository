@@ -3,7 +3,7 @@
 2. git을 설정하기 위한 workspace 폴더 생성.
 3. gitHub 사이트에 접속하여 회원가입 및 로그인 진행.
 4. 우측상단 "new Repository" 클릭.
-	- 내용을 입력하고 생성.
+	: 내용을 입력하고 생성. > 생성된 주소를 복사
 5. worksapce 폴더 내에서 "git Bash" 실행
 6. 초기 설정
 	: git  config --list (내용확인)
